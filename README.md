@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend Junior`**
 
-Me chamo Allyson Kaio, tenho 21 anos e atualmente faco curso superior de Sistemas de Informacao. Concluí o ensino médio no IEMA, com o curso técnico em informática. Estou em busca de uma primeira oportunidade de emprego na área da programação.
+Me chamo Allyson Kaio, tenho 21 anos e atualmente faço curso superior de Sistemas de Informação. Concluí o ensino médio no IEMA, com o curso técnico em informática. Estou em busca de uma primeira oportunidade de emprego na área da programação.
 
 
 
